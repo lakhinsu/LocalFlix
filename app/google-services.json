@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735694355733",
+    "firebase_url": "https://localflix-b2a48.firebaseio.com",
+    "project_id": "localflix-b2a48",
+    "storage_bucket": "localflix-b2a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735694355733:android:53c554876c938590",
+        "android_client_info": {
+          "package_name": "com.example.localflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735694355733-nga9bgiimjsqsgp3gd5atta2ev5fga80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXOoDdraGDP7e4JOV-VmX4ypMc5-4Hoqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735694355733-nga9bgiimjsqsgp3gd5atta2ev5fga80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
